@@ -36,18 +36,12 @@ Ein leistungsstarker Desktop-Manager für Stream-Overlays, entwickelt im Auftrag
 Eine datenbankgestützte Webanwendung mit vollem CRUD-Funktionsumfang.
 * Fokus auf relationales Datenbankdesign (SQLite) und effiziente Datenverwaltung via Python/Flask.
 
----
-
-### 📊 GitHub Statistiken
-![Niclas GitHub Stats](https://github-readme-stats.vercel.app/api?username=NRCodeForge&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRCodeForge&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Kontakt & Links
 - [cite_start]**Standort:** Bremen, Deutschland [cite: 3]
-- **LinkedIn:** [Dein Profil-Link]
-- **Portfolio:** [Link zu deiner Website, falls vorhanden]
+- **LinkedIn:** [(https://www.linkedin.com/in/niclas-rieckers/)]
 - [cite_start]**Engagement:** Ehrenamtlicher Jugendschießsportleiter & lizenzierter Jugendgruppenleiter [cite: 13, 15]
 
 ---

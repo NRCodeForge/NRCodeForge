@@ -1,16 +1,54 @@
-## Hi there 👋
+# Moin, ich bin Niclas! 👋
 
-<!--
-**NRCodeForge/NRCodeForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Medieninformatik-Student | Full-Stack Entwickler | Technik-Enthusiast
 
-Here are some ideas to get you started:
+[cite_start]Ich studiere **Internationale Medieninformatik** an der Hochschule Bremen[cite: 6]. Meine Leidenschaft liegt in der Entwicklung von Anwendungen, die technische Komplexität mit intuitiver Benutzererfahrung verbinden. [cite_start]Ursprünglich komme ich aus der **Technischen Informatik**[cite: 6], habe mich aber bewusst auf die Schnittstelle zwischen Mensch und Maschine spezialisiert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mein Fokus
+- **Full-Stack Webentwicklung:** Erstellung dynamischer Anwendungen mit Python (Flask) und modernen Web-Technologien.
+- **Automatisierung:** Integration von Echtzeit-Daten und Web-Scraping (z.B. für Streaming-Tools).
+- **UI/UX Design:** Entwicklung ansprechender Overlays und Benutzeroberflächen.
+
+---
+
+### 🛠️ Tech-Stack
+
+| Bereich | Technologien |
+| :--- | :--- |
+| **Sprachen** | Python, Java, JavaScript, HTML5, CSS3, SQL, LaTeX |
+| **Frameworks** | Flask, Playwright, Tkinter, Pygame, JavaFX |
+| **Tools** | Git, Docker, SQLite, Cisco IOS, OBS Studio Integration |
+| **Systeme** | Linux (Debian/Ubuntu Server), Windows Server/Client |
+
+---
+
+### 🌟 Top Projekte
+
+#### [StreamForge](https://github.com/NRCodeForge/StreamForge) 🛠️
+Ein leistungsstarker Desktop-Manager für Stream-Overlays, entwickelt im Auftrag für [WhieteRedi](https://www.twitch.tv/whieteredi).
+* **Backend:** Flask & SQLite.
+* **Automatisierung:** Echtzeit-Scraping von TikTok-Likes via Playwright.
+* **Frontend:** Interaktive Overlays in HTML/CSS/JS.
+
+#### [Databased_Web_App](https://github.com/NRCodeForge/Databased_Web_App) 📊
+Eine datenbankgestützte Webanwendung mit vollem CRUD-Funktionsumfang.
+* Fokus auf relationales Datenbankdesign (SQLite) und effiziente Datenverwaltung via Python/Flask.
+
+---
+
+### 📊 GitHub Statistiken
+![Niclas GitHub Stats](https://github-readme-stats.vercel.app/api?username=NRCodeForge&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRCodeForge&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Kontakt & Links
+- [cite_start]**Standort:** Bremen, Deutschland [cite: 3]
+- **LinkedIn:** [Dein Profil-Link]
+- **Portfolio:** [Link zu deiner Website, falls vorhanden]
+- [cite_start]**Engagement:** Ehrenamtlicher Jugendschießsportleiter & lizenzierter Jugendgruppenleiter [cite: 13, 15]
+
+---
+*„Technik sollte dem Menschen dienen, nicht umgekehrt.“*

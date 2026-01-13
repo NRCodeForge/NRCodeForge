@@ -2,7 +2,7 @@
 
 ### 🎓 Medieninformatik-Student | Full-Stack Entwickler | Technik-Enthusiast
 
-[cite_start]Ich studiere **Internationale Medieninformatik** an der Hochschule Bremen[cite: 6]. Meine Leidenschaft liegt in der Entwicklung von Anwendungen, die technische Komplexität mit intuitiver Benutzererfahrung verbinden. [cite_start]Ursprünglich komme ich aus der **Technischen Informatik**[cite: 6], habe mich aber bewusst auf die Schnittstelle zwischen Mensch und Maschine spezialisiert.
+Ich studiere **Internationale Medieninformatik** an der Hochschule Bremen[cite: 6]. Meine Leidenschaft liegt in der Entwicklung von Anwendungen, die technische Komplexität mit intuitiver Benutzererfahrung verbinden. Ursprünglich komme ich aus der **Technischen Informatik**[cite: 6], habe mich aber bewusst auf die Schnittstelle zwischen Mensch und Maschine spezialisiert.
 
 ---
 
@@ -40,9 +40,9 @@ Eine datenbankgestützte Webanwendung mit vollem CRUD-Funktionsumfang.
 ---
 
 ### 📫 Kontakt & Links
-- [cite_start]**Standort:** Bremen, Deutschland [cite: 3]
-- **LinkedIn:** [(https://www.linkedin.com/in/niclas-rieckers/)]
-- [cite_start]**Engagement:** Ehrenamtlicher Jugendschießsportleiter & lizenzierter Jugendgruppenleiter [cite: 13, 15]
+- **Standort:** Bremen, Deutschland 
+- **LinkedIn:** www.linkedin.com/in/niclas-rieckers
+- **Engagement:** Ehrenamtlicher Jugendschießsportleiter & lizenzierter Jugendgruppenleiter 
 
 ---
 *„Technik sollte dem Menschen dienen, nicht umgekehrt.“*

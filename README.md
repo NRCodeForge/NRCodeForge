@@ -2,7 +2,7 @@
 
 ### 🎓 Medieninformatik-Student | Full-Stack Entwickler | Technik-Enthusiast
 
-Ich studiere **Internationale Medieninformatik** an der Hochschule Bremen[cite: 6]. Meine Leidenschaft liegt in der Entwicklung von Anwendungen, die technische Komplexität mit intuitiver Benutzererfahrung verbinden. Ursprünglich komme ich aus der **Technischen Informatik**[cite: 6], habe mich aber bewusst auf die Schnittstelle zwischen Mensch und Maschine spezialisiert.
+Ich studiere **Internationale Medieninformatik** an der Hochschule Bremen. Meine Leidenschaft liegt in der Entwicklung von Anwendungen, die technische Komplexität mit intuitiver Benutzererfahrung verbinden. Ursprünglich komme ich aus der **Technischen Informatik**, habe mich aber bewusst auf die Schnittstelle zwischen Mensch und Maschine spezialisiert.
 
 ---
 
